@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" alt="PluralSight">
 <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp">
 <br>
-<img src="https://www.codewars.com/users/wmaKRET/badges/large" alt="wmaKRET Codewars Badge"/>
+<a href="https://www.codewars.com/users/wmaKRET"><img src="https://www.codewars.com/users/wmaKRET/badges/large" alt="wmaKRET Codewars Badge"/></>
 </div>
 
 ---
