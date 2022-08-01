@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hello there! 👋</h1>
-<p>I'm Wojciech and currently I am looking for a job as Front-end Developer!</p>
+<p>My name is Wojciech and currently I am looking for a job as Front-end Developer!</p>
 <a href="https://www.linkedin.com/in/wojciech-kret/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
