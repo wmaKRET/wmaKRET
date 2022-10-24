@@ -16,16 +16,6 @@
 </div>
 
 ---
-
-### :computer: About Me :
-
-- :moneybag: I worked at a Bank for over 4 years before I decided to become a Programmer
-- :seedling: I am pretty new to Web Development but I am constantly getting better :muscle:
-- :runner: Physical Activity is a big part of my life. I love to train at the gym, run, :bicyclist:, :basketball:, etc.
-- :pizza: Sadly I can't eat pizza all day, every day (not that healthy :grin:)
-- :video_game: In spare time I like to play Video Games or watch E-Sport tournaments
-
----
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -48,5 +38,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material-UI" alt="Material-UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :computer: About Me :
+
+- :moneybag: I worked at a Bank for over 4 years before I decided to become a Programmer
+- :seedling: I am pretty new to Web Development but I am constantly getting better :muscle:
+- :runner: Physical Activity is a big part of my life. I love to train at the gym, run, :bicyclist:, :basketball:, etc.
+- :pizza: Sadly I can't eat pizza all day, every day (not that healthy :grin:)
+- :video_game: In spare time I like to play Video Games or watch E-Sport tournaments
 
 
