@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hello there! 👋</h1>
-<p>My name is Wojciech, welcome to my GitHub!!</p>
+<p>Welcome to my GitHub!!</p>
 <a href="https://www.linkedin.com/in/wojciech-kret/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
